@@ -1,0 +1,12 @@
+#+TITLE: Languages and Grammers \newline Buffalo
+#+AUTHOR: Sam Graham
+#+startup: beamer
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: default
+#+BEAMER_FRAME_LEVEL: 2
+#+OPTIONS: toc:nil
+
+* What is a language? Why should I care?
+
+Languages are computer coolness.
