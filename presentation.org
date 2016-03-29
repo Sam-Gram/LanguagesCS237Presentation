@@ -50,6 +50,16 @@ A \rightarrow 0A1 \newline
 A \rightarrow B \newline
 B \rightarrow # \newline
 
+* A Buffalo example [3]
+ \newline
+A string in the English language would be: \newline
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo. \newline
+This is a valid string according to English grammar. In fact, there are several correct ways to interpret it.\newline
+a. the city of Buffalo, New York, United States, which is used as a noun adjunct in the sentence and is followed by the animal. \newline
+n. the noun buffalo (American bison), an animal, in the plural (equivalent to "buffaloes" or "buffalos"), in order to avoid articles.\newline
+v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.\newline
+
+
 * An English grammer (Subset) [2]
 
 \scriptsize
@@ -70,3 +80,4 @@ https://www.youtube.com/watch?v=qOpW5VN2j2Q
 
 [1] \tiny https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
 [2] \tiny "Introduction to the Theory of Computation" by Michael Sipser, Second Edition.
+[3] \tiny https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
