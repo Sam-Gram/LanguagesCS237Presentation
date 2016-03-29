@@ -73,6 +73,12 @@ v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.
 \langle VERB \rangle \rightarrow touches \vert likes \vert sees \newline
 \langle PREP \rangle \rightarrow with
 
+* The language hierarchy 
+1. Turing-recognizable\newline
+2. Decidable\newline
+3. Context-free\newline
+4. Regular\newline
+
 * What use is this in the world of computers?
 
 https://www.youtube.com/watch?v=qOpW5VN2j2Q
