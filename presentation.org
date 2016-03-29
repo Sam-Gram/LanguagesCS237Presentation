@@ -1,4 +1,4 @@
-#+TITLE: Languages and Grammers \newline Buffalo
+#+TITLE: Languages and Grammars \newline Buffalo
 #+AUTHORS: Sam Graham, Jake Casperson
 #+startup: beamer
 #+LATEX_CLASS: beamer
@@ -26,6 +26,34 @@
 
 * What is a language?
 
-* What is a grammer? 
+A set of strings. (Not the world's best definition )
 
-[1] https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
+* What is a grammar? 
+
+The rules that generate a given set of strings.
+
+* A simple example [2]
+A \rightarrow 0A1 \newline
+A \rightarrow B \newline
+B \rightarrow # \newline
+
+* An English grammer (Subset) [2]
+
+\scriptsize
+\langle SENTENCE \rangle \rightarrow \langle NOUN-PHRASE \rangle \langle VERB-PHRASE \rangle \newline
+\langle NOUN-PHRASE \rangle \rightarrow \langle CMPLX-NOUN \rangle \vert \langle CMPLX-NOUN \rangle \langle PREP-PHRASE \rangle \newline
+\langle VERB-PHRASE \rangle \rightarrow \langle CMPLX-VERB \rangle \vert \langle CMPLX-VERB \rangle \langle PREP-PHRASE \rangle \newline
+\langle PREP-PHRASE \rangle \rightarrow \langle PREP \rangle \langle CMPLX-NOUN \rangle \newline
+\langle CMPLX-NOUN \rangle \rightarrow \langle ARTICLE \rangle \langle NOUN \rangle \newline
+\langle ARTICLE \rangle \rightarrow a \vert the \newline
+\langle NOUN \rangle \rightarrow boy \vert girl \vert flower \newline
+\langle VERB \rangle \rightarrow touches \vert likes \vert sees \newline
+\langle PREP \rangle \rightarrow with
+
+* What use is this in the world of computers?
+
+https://www.youtube.com/watch?v=qOpW5VN2j2Q
+
+
+[1] \tiny https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
+[2] \tiny "Introduction to the Theory of Computation" by Michael Sipser, Second Edition.
