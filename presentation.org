@@ -38,9 +38,7 @@
 
 * What is a language? 
 
-A set of strings. (Not the world's best definition ) \newline
-For example, a string in the English language would be: \newline
-Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+A set of strings. (Not the world's best definition) 
 
 * What is a grammar? 
 
