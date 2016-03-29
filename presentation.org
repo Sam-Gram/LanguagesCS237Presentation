@@ -1,5 +1,5 @@
 #+TITLE: Languages and Grammars \newline Buffalo
-#+AUTHORS: Sam Graham, Jake Casperson
+#+AUTHORS: Sam Graham, Jake Casperson, Preston Price
 #+startup: beamer
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
@@ -77,7 +77,7 @@ A regular language is a language that can be recognized by a DFA. \newline
 For example, 1* is Regular. 0*1 is also Regular. 
 
 * DFA - Deterministic Finite Automata
-[[./dfa.png]]
+[[./dfa.png]] [4]
 - A finite set of states.
 - A finite set of input symbols called the alphabet.
 - A transition function.
@@ -99,3 +99,4 @@ https://www.youtube.com/watch?v=qOpW5VN2j2Q
 [1] \tiny https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
 [2] \tiny "Introduction to the Theory of Computation" by Michael Sipser, Second Edition.
 [3] \tiny https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
+[4] \tiny https://upload.wikimedia.org/wikipedia/commons/9/94/DFA_example_multiplies_of_3.svg
