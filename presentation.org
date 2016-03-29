@@ -28,9 +28,11 @@
 - Time moves in a way an arrow would.
 - Certain flying insects, "time flies," enjoy an arrow.
 
-* What is a language?
+* What is a language? 
 
-A set of strings. (Not the world's best definition )
+A set of strings. (Not the world's best definition ) \newline
+For example, a string in the English language would be: \newline
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
 
 * What is a grammar? 
 
