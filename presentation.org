@@ -72,7 +72,9 @@ v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.
 \langle PREP \rangle \rightarrow with
 
 * Regular languages 
-There are different types of languages. The most basic language is called the Regular language, it is defined as: \newline
+There are different types of languages. The most basic languages are called a Regular language. \newline
+A regular language is a language that can be recognized by a DFA. \newline
+For example, 1* is Regular. 0*1 is also Regular. 
 
 * DFA - Deterministic Finite Automata
 [[./dfa.png]]
@@ -83,7 +85,7 @@ There are different types of languages. The most basic language is called the Re
 - A set of accept states.
 
 * The language hierarchy 
-1. Turing-recognizable\newline
+1. Turing-recognizable\newine
 2. Decidable\newline
 3. Context-free\newline
 4. Regular\newline
