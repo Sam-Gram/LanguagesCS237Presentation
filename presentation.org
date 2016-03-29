@@ -27,7 +27,7 @@
 - https://itunes.apple.com/us/developer/preston-price/id972357986
 
 
-* Time flies like an arrow [1]
+* Time Flies like an Arrow [1]
 
 #+ATTR_BEAMER: :overlay +-
 - Measure the speed of flies like you would measure that of an arrow
@@ -36,20 +36,20 @@
 - Time moves in a way an arrow would.
 - Certain flying insects, "time flies," enjoy an arrow.
 
-* What is a language? 
+* What is a Language? 
 
 A set of strings. (Not the world's best definition) 
 
-* What is a grammar? 
+* What is a Grammar? 
 
 The rules that generate a given set of strings.
 
-* A simple example [2]
+* A Simple Example [2]
 A \rightarrow 0A1 \newline
 A \rightarrow B \newline
 B \rightarrow # \newline
 
-* A Buffalo example [3]
+* A Buffalo Example [3]
 A string in the English language would be: \newline
 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo. \newline
 This is a valid string according to English grammar. In fact, there are several correct ways to interpret it.\newline
@@ -57,8 +57,7 @@ a. the city of Buffalo, New York, United States, which is used as a noun adjunct
 n. the noun buffalo (American bison), an animal, in the plural (equivalent to "buffaloes" or "buffalos"), in order to avoid articles.\newline
 v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.\newline
 
-
-* An English grammer (Subset) [2]
+* An English Grammer (Subset) [2]
 
 \scriptsize
 \langle SENTENCE \rangle \rightarrow \langle NOUN-PHRASE \rangle \langle VERB-PHRASE \rangle \newline
@@ -71,7 +70,7 @@ v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.
 \langle VERB \rangle \rightarrow touches \vert likes \vert sees \newline
 \langle PREP \rangle \rightarrow with
 
-* Regular languages 
+* Regular Languages 
 There are different types of languages. The most basic languages are called a Regular language. \newline
 A regular language is a language that can be recognized by a DFA. \newline
 For example, 1* is Regular. 0*1 is also Regular. 
@@ -84,14 +83,13 @@ For example, 1* is Regular. 0*1 is also Regular.
 - An initial or start state.
 - A set of accept states.
 
-* The language hierarchy 
-1. Turing-recognizable\newine
+* The Language Hierarchy 
+1. Turing-recognizable\newline
 2. Decidable\newline
 3. Context-free\newline
 4. Regular\newline
-[[./714px-Chomsky-hierarchy.svg.png]]
 
-* What use is this in the world of computers?
+* What Use is this in the World of Computers?
 
 https://www.youtube.com/watch?v=qOpW5VN2j2Q
 
