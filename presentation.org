@@ -89,6 +89,7 @@ For example, 1* is Regular. 0*1 is also Regular.
 2. Decidable\newline
 3. Context-free\newline
 4. Regular\newline
+[[./714px-Chomsky-hierarchy.svg.png]]
 
 * What use is this in the world of computers?
 
