@@ -13,7 +13,7 @@
 - https://github.com/Sam-Gram
 - https://www.hackerrank.com/samgraham
 - http://www.codewars.com/users/Sam-Gram
-- https://www.topcoder.com/members/Sam-Gram/
+- http://stackoverflow.com/users/2521049/sam-graham
 
 * Time flies like an arrow [1]
 
