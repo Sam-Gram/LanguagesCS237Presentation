@@ -1,5 +1,5 @@
 #+TITLE: Languages and Grammers \newline Buffalo
-#+AUTHOR: Sam Graham
+#+AUTHORS: Sam Graham, Jake Casperson
 #+startup: beamer
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
@@ -9,6 +9,7 @@
 
 * Sam Graham
 
+#+ATTR_BEAMER: :overlay +-
 - https://github.com/Sam-Gram
 - https://www.hackerrank.com/samgraham
 - http://www.codewars.com/users/Sam-Gram
@@ -16,11 +17,15 @@
 
 * Time flies like an arrow [1]
 
+#+ATTR_BEAMER: :overlay +-
+- Measure the speed of flies like you would measure that of an arrow
+- Measure the speed of flies like an arrow would
+- Measure the speed of flies that are like arrows
+- Time moves in a way an arrow would.
+- Certain flying insects, "time flies," enjoy an arrow.
 
-Measure the speed of flies like you would measure that of an arrow
-Measure the speed of flies like an arrow would
-Measure the speed of flies that are like arrows
-Time moves in a way an arrow would.
-Certain flying insects, "time flies," enjoy an arrow.
+* What is a language?
+
+* What is a grammer? 
 
 [1] https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
