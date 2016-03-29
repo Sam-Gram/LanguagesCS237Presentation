@@ -74,6 +74,14 @@ v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.
 * Regular languages 
 There are different types of languages. The most basic language is called the Regular language, it is defined as: \newline
 
+* DFA - Deterministic Finite Automata
+[[./dfa.png]]
+- A finite set of states.
+- A finite set of input symbols called the alphabet.
+- A transition function.
+- An initial or start state.
+- A set of accept states.
+
 * The language hierarchy 
 1. Turing-recognizable\newline
 2. Decidable\newline

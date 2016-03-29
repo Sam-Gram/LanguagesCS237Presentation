@@ -18,9 +18,14 @@
 * Jacob Casperson
 #+ATTR_BEAMER: :overlay +-
 - https://github.com/jataca
+- http://stackoverflow.com/users/6130555/jacob-casperson
+
 * Preston Price
 #+ATTR_BEAMER: :overlay +-
 - https://github.com/prestonprice57
+- https://www.hackerrank.com/prestonprice57
+- https://itunes.apple.com/us/developer/preston-price/id972357986
+
 
 * Time flies like an arrow [1]
 
@@ -33,9 +38,7 @@
 
 * What is a language? 
 
-A set of strings. (Not the world's best definition ) \newline
-For example, a string in the English language would be: \newline
-Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+A set of strings. (Not the world's best definition) 
 
 * What is a grammar? 
 
@@ -45,6 +48,15 @@ The rules that generate a given set of strings.
 A \rightarrow 0A1 \newline
 A \rightarrow B \newline
 B \rightarrow # \newline
+
+* A Buffalo example [3]
+A string in the English language would be: \newline
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo. \newline
+This is a valid string according to English grammar. In fact, there are several correct ways to interpret it.\newline
+a. the city of Buffalo, New York, United States, which is used as a noun adjunct in the sentence and is followed by the animal. \newline
+n. the noun buffalo (American bison), an animal, in the plural (equivalent to "buffaloes" or "buffalos"), in order to avoid articles.\newline
+v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.\newline
+
 
 * An English grammer (Subset) [2]
 
@@ -59,6 +71,15 @@ B \rightarrow # \newline
 \langle VERB \rangle \rightarrow touches \vert likes \vert sees \newline
 \langle PREP \rangle \rightarrow with
 
+* Regular languages 
+There are different types of languages. The most basic language is called the Regular language, it is defined as: \newline
+
+* The language hierarchy 
+1. Turing-recognizable\newline
+2. Decidable\newline
+3. Context-free\newline
+4. Regular\newline
+
 * What use is this in the world of computers?
 
 https://www.youtube.com/watch?v=qOpW5VN2j2Q
@@ -66,3 +87,4 @@ https://www.youtube.com/watch?v=qOpW5VN2j2Q
 
 [1] \tiny https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
 [2] \tiny "Introduction to the Theory of Computation" by Michael Sipser, Second Edition.
+[3] \tiny https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
