@@ -18,6 +18,7 @@
 * Jacob Casperson
 #+ATTR_BEAMER: :overlay +-
 - https://github.com/jataca
+- http://stackoverflow.com/users/6130555/jacob-casperson
 
 * Preston Price
 #+ATTR_BEAMER: :overlay +-
@@ -51,7 +52,6 @@ A \rightarrow B \newline
 B \rightarrow # \newline
 
 * A Buffalo example [3]
- \newline
 A string in the English language would be: \newline
 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo. \newline
 This is a valid string according to English grammar. In fact, there are several correct ways to interpret it.\newline
