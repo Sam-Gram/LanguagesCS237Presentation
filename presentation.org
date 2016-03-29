@@ -18,9 +18,13 @@
 * Jacob Casperson
 #+ATTR_BEAMER: :overlay +-
 - https://github.com/jataca
+
 * Preston Price
 #+ATTR_BEAMER: :overlay +-
 - https://github.com/prestonprice57
+- https://www.hackerrank.com/prestonprice57
+- https://itunes.apple.com/us/developer/preston-price/id972357986
+
 
 * Time flies like an arrow [1]
 
