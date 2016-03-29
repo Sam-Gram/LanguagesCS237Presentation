@@ -73,7 +73,7 @@ v. the verb "buffalo" meaning to outwit, confuse, deceive, intimidate or baffle.
 
 * Regular languages 
 There are different types of languages. The most basic languages are called a Regular language. \newline
-- A regular language is a language that can be recognized by a DFA
+A regular language is a language that can be recognized by a DFA
 For example, 1* is Regular. 0*1 is also Regular. 
 
 * The language hierarchy 
