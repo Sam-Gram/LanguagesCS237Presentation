@@ -15,6 +15,10 @@
 - http://www.codewars.com/users/Sam-Gram
 - http://stackoverflow.com/users/2521049/sam-graham
 
+* Jacob Casperson
+#+ATTR_BEAMER: :overlay +-
+- https://github.com/jataca
+
 * Time flies like an arrow [1]
 
 #+ATTR_BEAMER: :overlay +-
